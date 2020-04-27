@@ -1,0 +1,40 @@
+"*":
+  core:
+    ignoredNames: [
+      ".git"
+      ".hg"
+      ".svn"
+      ".DS_Store"
+      "._*"
+      "Thumbs.db"
+      "desktop.ini"
+      "*.pyc"
+      "__pycache__"
+    ]
+    telemetryConsent: "no"
+    useTreeSitterParsers: false
+  editor:
+    fontSize: 10
+    tabType: "soft"
+  "exception-reporting":
+    userId: "d868decf-8223-4a00-9afe-4545c18d9686"
+  "file-types":
+    BUILD: "source.python"
+    WORKSPACE: "source.python"
+  kite:
+    showWelcomeNotificationOnStartup: false
+  "python-indent":
+    hangingIndentTabs: 2
+  "tabs-to-spaces":
+    onSave: "untabify"
+  "tree-view":
+    hideIgnoredNames: true
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false
+".python.regexp.source":
+  editor:
+    tabLength: 2
+".python.source":
+  editor:
+    tabLength: 2
