@@ -6,4 +6,4 @@ Extracted packages using:
 
 To reinstall:
 
-    apm install --packages-file ~/.atom/package.list
+    apm install --packages-file package.list
